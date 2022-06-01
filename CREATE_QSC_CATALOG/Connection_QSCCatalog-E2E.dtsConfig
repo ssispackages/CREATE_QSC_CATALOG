@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<DTSConfiguration>
+	<DTSConfigurationHeading>
+		<DTSConfigurationFileInfo GeneratedBy="PIONE0\palaninew" GeneratedFromPackageName="QDCtoQSC-SYNC" GeneratedFromPackageID="{86FD378D-060F-4A95-8AFA-BF654F71562E}" GeneratedDate="1/31/2022 10:55:59 AM"/>
+	</DTSConfigurationHeading>
+	<Configuration ConfiguredType="Property" Path="\Package.Connections[DestinationDB-QSC].Properties[ConnectionString]" ValueType="String">
+		<ConfiguredValue>Data Source=164.52.218.134;User ID=sa;Password=Pione@123;Initial Catalog=QSCUAT;Provider=SQLNCLI11.1;Auto Translate=False;</ConfiguredValue>
+	</Configuration>
+	<Configuration ConfiguredType="Property" Path="\Package.Connections[SourceDB-QDC].Properties[ConnectionString]" ValueType="String">
+		<ConfiguredValue>Data Source=164.52.218.134;User ID=sa;Password=Pione@123;Initial Catalog=QDCUAT;Provider=SQLNCLI11.1;Auto Translate=False;</ConfiguredValue>
+	</Configuration>
+</DTSConfiguration>

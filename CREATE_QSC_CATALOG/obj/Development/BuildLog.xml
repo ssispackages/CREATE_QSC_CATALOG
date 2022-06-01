@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <ProjectInfo>
+    <Name>QDCtoQSC-SYNC</Name>
+    <LastWriteTime>2022-02-22T04:06:30.4902585Z</LastWriteTime>
+    <LastKnownProtectionLevel>EncryptAllWithPassword</LastKnownProtectionLevel>
+    <Salt>pNwACBS/</Salt>
+    <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAgBpny+QhNUm/NZYozXFhmgAAAAACAAAAAAADZgAAwAAAABAAAABn9QlRljGcg9/z7tNCBNOAAAAAAASAAACgAAAAEAAAAN0Zc2Guu/W/P1w+5yNi1MkoAAAAYZElGISaURXKB0prrFTA72o9zRvSmrhh3nF32vLiXdW9uSMGUbJ41xQAAADYL9I3TozQZgkXuax/02xyLcZE5g==</LastKnownProtectedHashedPassword>
+  </ProjectInfo>
+  <LastBuildInfos>
+    <ProjectBuildItemInfo>
+      <Name>QDCtoQSC-SYNC.dtsx</Name>
+      <LastWriteTime>2022-02-22T04:05:13.0839487Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptAllWithPassword</LastKnownProtectionLevel>
+      <Salt>C94zaE5J</Salt>
+      <LastKnownProtectedHashedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAgBpny+QhNUm/NZYozXFhmgAAAAACAAAAAAADZgAAwAAAABAAAAChA2pwRJ2s+hIjDjYl+3SVAAAAAASAAACgAAAAEAAAADNOyIh41DUSN1fkFC8vNZYoAAAAIRlOxWXf7bnxdiarWdTUwQSy/0MQdmsLVKdc1DSlAnLP/te0+WAZlBQAAABNBhW6aP7Ojlz7R71YxP9kbXLAiQ==</LastKnownProtectedHashedPassword>
+    </ProjectBuildItemInfo>
+  </LastBuildInfos>
+</BuildLog>
